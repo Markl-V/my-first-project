@@ -7,7 +7,7 @@ python_modules
 *.tmp
 public/uploads/*
 !public/uploads/.gitkeep
-storage/reports/*
+/storage/reports/*
 !storage/reports/template.xlsx
 /config
 my-first-project/*
