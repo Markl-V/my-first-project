@@ -10,3 +10,4 @@ public/uploads/*
 storage/reports/*
 !storage/reports/template.xlsx
 /config
+my-first-project/*
